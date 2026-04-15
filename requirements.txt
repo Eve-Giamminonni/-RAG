@@ -1,0 +1,10 @@
+chromadb
+sentence-transformers
+huggingface_hub
+gradio
+langchain-community
+langchain-text-splitters
+pypdf
+python-dotenv
+pandas
+tqdm

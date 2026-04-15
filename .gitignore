@@ -1,0 +1,17 @@
+# Secrets
+.env
+
+# Vector database
+db/
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+
+# macOS
+.DS_Store
+
+# Generated outputs
+evaluation_results.csv
+comparison_results.csv
